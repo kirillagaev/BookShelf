@@ -1,0 +1,4 @@
+export const app = {
+    CHECKED_FILTER: 'CHECKED_FILTER',
+    ADD_FRAGMENT_BOOK: 'ADD_FRAGMENT_BOOK'
+};
